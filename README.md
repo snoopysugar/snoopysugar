@@ -18,7 +18,7 @@
 - 🧰 Skilled in Kali Linux, Nmap, Metasploit, Wireshark, Burp Suite, and more
 - 🎯 Currently focused on mastering advanced system hacking and CTF challenges
 - 🔍 Breaking things to make the digital world safer
-- 🔐 CEH | OSINT | Bug Bounty in Progress
+- 🔐 CEH | OSINT | 
 
 
 ---
