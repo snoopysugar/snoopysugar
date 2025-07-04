@@ -1,5 +1,6 @@
 # 👋 Hi, I’m [snoopysugar] — Cybersecurity Enthusiast & Ethical Hacker
 
+
 # 🖥️ Welcome to My Hacker Hub 🖥️
 <p align="center">
  
@@ -16,6 +17,9 @@
 - 🔍 Always curious about new hacking tools & techniques
 - 🧰 Skilled in Kali Linux, Nmap, Metasploit, Wireshark, Burp Suite, and more
 - 🎯 Currently focused on mastering advanced system hacking and CTF challenges
+- 🔍 Breaking things to make the digital world safer
+- 🔐 CEH | OSINT | Bug Bounty in Progress
+- 🌐 My Portfolio • TryHackMe
 
 ---
 
@@ -25,8 +29,7 @@
 |---------------------|-------------|--------------------|
 | Kali Linux          | Python      | Nmap               |
 | Metasploit          | Bash        | Wireshark          |
-| Burp Suite          | PowerShell  | John the Ripper    |
-| Nessus              | C           | SQLmap             |
+| Burp Suite          | C           | John the Ripper    |
 
 ---
 
@@ -37,7 +40,7 @@
 ---
 
 
-> **“The best defense is a good offense.”** – Edward Snowden
+🤖“Hack the planet. But ethically.” — Anonymous
 
 ---
 
