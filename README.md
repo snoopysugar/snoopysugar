@@ -1,11 +1,3 @@
-
-- 👀 I’m interested in Hacking
-- 🌱 I’m currently learning Ethical Hacking
-- 💞️ Just Curiosity
-- 🤓 Whoami
-- 
-
-
 # 👋 Hi, I’m [snoopysugar] — Cybersecurity Enthusiast & Ethical Hacker
 
 ![hacker-gif](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
@@ -34,7 +26,7 @@
 
 ### 📊 GitHub Stats
 
-![SNOOPYSUGAR's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark&count_private=true)
+![snoopysugar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark&count_private=true)
 
 ---
 
