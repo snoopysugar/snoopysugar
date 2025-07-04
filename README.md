@@ -4,10 +4,16 @@
 
 ### Here’s some hacker vibes for you:
 
+## ⚡ Hacker Vibes
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="200" alt="Matrix rain" />
-  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="200" alt="Cyberpunk hacker" />
+  <img src="https://media.giphy.com/media/oe33xf3B50fsc/giphy.gif" width="200" alt="Hacker Typing">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Matrix Code">
+  <img src="https://media.giphy.com/media/l3vR9O2q7kU1jvTFe/giphy.gif" width="200" alt="Terminal Scrolling">
+  <img src="https://media.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif" width="200" alt="Cyber HUD">
+  <img src="https://media.giphy.com/media/Q8b8XB6h3bfzK/giphy.gif" width="200" alt="Glitch Hacker">
 </p>
+
 
 ---
 
