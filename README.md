@@ -1,6 +1,16 @@
 # 👋 Hi, I’m [snoopysugar] — Cybersecurity Enthusiast & Ethical Hacker
 
-![hacker-gif](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+# 🖥️ Welcome to My Hacker Hub 🖥️
+
+### Here’s some hacker vibes for you:
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Hacker typing" />
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="200" alt="Matrix rain" />
+  <img src="https://media.giphy.com/media/3o7TKsQijta3uDdd0Q/giphy.gif" width="200" alt="Terminal coding" />
+  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="200" alt="Cyberpunk hacker" />
+  <img src="https://media.giphy.com/media/5xtDarqlsEWQXhxXVmE/giphy.gif" width="200" alt="Glitch effect" />
+</p>
 
 ---
 
