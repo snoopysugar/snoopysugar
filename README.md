@@ -26,7 +26,7 @@
 
 ### 📊 GitHub Stats
 
-![snoopysugar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark&count_private=true)
+![snoopysugar's GitHub stats](https://github-readme-stats.vercel.app/api?username=snoopysugar&show_icons=true&theme=dark&count_private=true)
 
 ---
 
