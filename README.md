@@ -8,8 +8,9 @@
 
 <p align="center">
  
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Matrix Code">
   <img src="https://media.giphy.com/media/Y0uU6oq3hJ1Gu2Er1q/giphy.gif" width="200" alt="Hacker Sticker from Giphy" />
+    <img src="https://giphy.com/stickers/LifehackingNL-life-hacking-lifehacking-KDDK8Z7BQXvT86zXhH/giphy.gif" width="200" alt="Hacker Sticker from Giphy" />
+
 
 
    
