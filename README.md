@@ -1,16 +1,12 @@
 # 👋 Hi, I’m [snoopysugar] — Cybersecurity Enthusiast & Ethical Hacker
 
-
 # 🖥️ Welcome to My Hacker Hub 🖥️
 <p align="center">
  
   <img src="https://media.giphy.com/media/Y0uU6oq3hJ1Gu2Er1q/giphy.gif" width="200" alt="Hacker Sticker from Giphy" />
     <img src="https://media.giphy.com/media/KDDK8Z7BQXvT86zXhH/giphy.gif" width="300" alt="Lifehacking sticker">
 </p>
-
-
 ---
-
 ### 🛡️ About Me
 - 🚀 Aspiring Certified Ethical Hacker (CEH) & Cybersecurity Professional
 - 💻 Passionate about penetration testing, vulnerability assessments & exploit development
@@ -33,19 +29,8 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![snoopysugar's GitHub stats](https://github-readme-stats.vercel.app/api?username=snoopysugar&show_icons=true&theme=dark&count_private=true)
-
----
-
-
 🤖“Hack the planet. But ethically.” — Anonymous
 
----
-
-### ⚡ Fun Fact
-I once solved a CTF challenge blindfolded 🕶️😉
 
 
 
