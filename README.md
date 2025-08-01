@@ -6,7 +6,9 @@
   <img src="https://media.giphy.com/media/Y0uU6oq3hJ1Gu2Er1q/giphy.gif" width="200" alt="Hacker Sticker from Giphy" />
     <img src="https://media.giphy.com/media/KDDK8Z7BQXvT86zXhH/giphy.gif" width="300" alt="Lifehacking sticker">
 </p>
+
 ---
+
 ### 🛡️ About Me
 - 🚀 Aspiring Certified Ethical Hacker (CEH) & Cybersecurity Professional
 - 💻 Passionate about penetration testing, vulnerability assessments & exploit development
