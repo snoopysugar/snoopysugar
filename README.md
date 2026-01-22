@@ -4,7 +4,7 @@
 <p align="center">
  
   <img src="https://media.giphy.com/media/Y0uU6oq3hJ1Gu2Er1q/giphy.gif" width="200" alt="Hacker Sticker from Giphy" />
-    <img src="[https://media.giphy.com/media/KDDK8Z7BQXvT86zXhH/giphy.gif" width="300" alt="Lifehacking sticker](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGlmZzNhbXNqbnN1NTdlbHd6cWhvcmxvYmVoOWNhMTVrbDZjcWJvcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jzHFPlw89eTqU/giphy.gif)">
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGlmZzNhbXNqbnN1NTdlbHd6cWhvcmxvYmVoOWNhMTVrbDZjcWJvcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jzHFPlw89eTqU/giphy.gif">
     <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Znk3bncwZjJsNnQxNzJubXM1ZXFyYzJzbXQzc3lpZHA5bHY5bG00eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif">
 </p>
 
