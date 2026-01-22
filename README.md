@@ -33,9 +33,13 @@
 ![Nikto](https://img.shields.io/badge/Nikto-FF0000?style=for-the-badge)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Maltego](https://img.shields.io/badge/Maltego-1F1F1F?style=for-the-badge)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)
+![SpiderFoot](https://img.shields.io/badge/SpiderFoot-1F1F1F?style=for-the-badge)
+![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor=white)
+![Censys](https://img.shields.io/badge/Censys-1A73E8?style=for-the-badge)
+![Google_Dorking](https://img.shields.io/badge/Google_Dorking-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Kali Linux](...) ![Metasploit](...) ![Nmap](...) ![Burp Suite](...)
 
 
 ---
