@@ -23,11 +23,12 @@
 
 ### 🧰 My Toolkit
 
-| Penetration Testing | Programming | Tools & Frameworks |
-|---------------------|-------------|--------------------|
-| Kali Linux          | Python      | Nmap               |
-| Metasploit          | Bash        | Wireshark          |
-| Burp Suite          | C           | John the Ripper    |
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-3A3A3A?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0040FF?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
