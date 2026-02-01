@@ -1,4 +1,5 @@
-# 👋 Hi, I’m [snoopysugar] — Cybersecurity Enthusiast & Ethical Hacker
+# 👋 Hi, I’m snoopysugar
+# Cybersecurity Enthusiast & Ethical Hacker
 
 # 🖥️ Welcome to My Hacker Hub 🖥️
 <p align="center">
