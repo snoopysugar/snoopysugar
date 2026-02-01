@@ -1,7 +1,7 @@
-## 👋 Hi, I’m snoopysugar
+### 👋 Hi, I’m snoopysugar
 Cybersecurity Enthusiast & Ethical Hacker
 
-# 🖥️ Welcome to My Hacker Hub 🖥️
+### 🖥️ Welcome to My Hacker Hub 🖥️
 <p align="center">
  
    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Znk3bncwZjJsNnQxNzJubXM1ZXFyYzJzbXQzc3lpZHA5bHY5bG00eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif">
