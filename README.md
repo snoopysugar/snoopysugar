@@ -1,9 +1,7 @@
 <!-- Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Snoopy;Cybersecurity+Student+from+Bangladesh;Learning+Ethical+Hacking;Linux+%7C+Python+%7C+Nmap;CTF+Player+%7C+Future+Security+Researcher" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hi+👋+I+am+Snoopy;Cybersecurity+Student+from+Bangladesh;Learning+Ethical+Hacking;Linux+%7C+Python+%7C+Nmap;CTF+Player+%7C+Future+Security+Researcher" />
 </p>
-
----
 
 # 🧑‍💻 About Me
 
