@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=Hi+👋+I+am+SnoopySugar;Cybersecurity+Student;Learning+Ethical+Hacking;Linux+%7C+Python+%7C+Nmap;Future+Ethical+Hacker+Red+Hat+Hacker" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=Hi+👋+I+am+SnoopySugar;Cybersecurity+Student;Learning+Ethical+Hacking;Linux+%7C+Python+%7C+Nmap;Future+Ethical+Hacker+%7c+Red+Hat+Hacker" />
 </p>
 
 # 🧑‍💻 About Me
