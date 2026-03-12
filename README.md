@@ -70,16 +70,6 @@ I regularly practice on:
 
 ---
 
-# 🌐 Connect With Me
-
-💼 LinkedIn  
-www.linkedin.com/in/******  
-
-📧 Email  
-*******@gmail.com  
-
----
-
 # 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
