@@ -19,7 +19,7 @@
 • Linux for Hackers  
 • Footprinting & Reconnaissance  
 • Network Scanning & Enumeration  
-• Vulnerability Analysis & Penetration Testing
+• Vulnerability Analysis & Penetration Testing     
 • Python for Security Automation  
 
 ---
