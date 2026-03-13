@@ -13,6 +13,8 @@
 🖥 Learning Linux, Networking & Enumeration  
 🏴 Regularly solving CTF challenges  
 ---
+About
+
 
 # 🚀 Current Learning Path
 
