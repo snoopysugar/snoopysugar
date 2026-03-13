@@ -9,7 +9,7 @@
 # 🧑‍💻 About Me
 
 🔐 Cybersecurity Student  
-🎯 Focused on Ethical Hacking & Penetration Testing  
+🎯 Focused on Red Hat Hacking   
 🖥 Learning Linux, Networking & Enumeration  
 🏴 Regularly solving CTF challenges  
 ---
@@ -19,7 +19,7 @@
 • Linux for Hackers  
 • Footprinting & Reconnaissance  
 • Network Scanning & Enumeration  
-• Vulnerability Analysis
+• Vulnerability Analysis & Penetration Testing
 • Python for Security Automation  
 
 ---
