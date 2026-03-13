@@ -6,7 +6,7 @@
   <img src="https://media1.tenor.com/m/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" width="900">
 </p>
 
-# 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 🔐 Cybersecurity Student  
 🎯 Focused on Red Hat Hacking   
@@ -16,7 +16,7 @@
 
 
 
-# 🚀 Current Learning Path
+## 🚀 Current Learning Path
 
 • Linux for Hackers  
 • Footprinting & Reconnaissance  
@@ -26,7 +26,7 @@
 
 ---
 
-# 🛠 Cybersecurity Tools
+## 🛠 Cybersecurity Tools
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-3A3A3A?style=for-the-badge)
@@ -58,7 +58,7 @@
 
 ---
 
-# 🔥 Projects
+## 🔥 Projects
 
 🔹 Nmap Cheat Sheet  
 🔹 OSINT Automation Toolkit  
@@ -68,7 +68,7 @@
 
 ---
 
-# 🏆 CTF Practice
+## 🏆 CTF Practice
 
 I regularly practice on:
 
@@ -78,6 +78,6 @@ I regularly practice on:
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
