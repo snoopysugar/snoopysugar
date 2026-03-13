@@ -48,10 +48,13 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=snoopysugar&show_icons=true&theme=tokyonight)
+<img align="right" width="350" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
+<img src="https://github-readme-stats.vercel.app/api?username=snoopysugar&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=snoopysugar&theme=tokyonight&hide_border=true" />
 
 ---
 
