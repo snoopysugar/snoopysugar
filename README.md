@@ -2,6 +2,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=F75C7E&center=true&width=750&lines=Hello+World;I+Love+Cybersecurity;Linux+Learner;Future+Ethical+Hacker" />
 </p>
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" width="700">
+</p>
+
 # 🧑‍💻 About Me
 
 🔐 Cybersecurity Student  
