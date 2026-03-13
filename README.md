@@ -2,9 +2,13 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=FF0000&center=true&width=750&lines=Hi+👾+I+am+SnoopySugar;Cybersecurity+Student;Ethical+Hacker;Future+Red+Hat+Hacker" />
 </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/23/3d/74/233d74f3fd24e51ed5e9dba0992fc868.gif" width="900">
-</p>
+---
+
+<div align="center">
+    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
+</div>
+
+---
 
 ## 🧑‍💻 About Me
 
