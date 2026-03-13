@@ -57,7 +57,8 @@
 
 🔹 Nmap Cheat Sheet  
 🔹 OSINT Automation Toolkit  
-🔹 Python Network Sniffer  
+🔹 Advanced Nmap Scanner
+🔹 Domain to Ip convertor  
 🔹 Cybersecurity CTF Writeups  
 
 ---
