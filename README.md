@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" width="700">
+  <img src="https://media1.tenor.com/m/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" width="800">
 </p>
 
 # 🧑‍💻 About Me
