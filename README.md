@@ -85,5 +85,5 @@ I regularly practice on:
 ## 👋 Thank you
 
 <div align="center">
-    <picture><img src="https://i.pinimg.com/originals/e7/13/df/e713dfda338e6bd73377e6003bd92fd9.gif" align="center" style="width: 100%" /><picture>
+    <picture><img src="https://i.pinimg.com/originals/5b/7f/d4/5b7fd4d80e26d97d284867bad3775fc3.gif" align="center" style="width: 100%" /><picture>
 </div>
