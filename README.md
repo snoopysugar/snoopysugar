@@ -82,6 +82,8 @@ I regularly practice on:
 
 ---
 
-## 🐍 Contribution Snake
+## 👋 Thank you
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<div align="center">
+    <picture><img src="https://i.pinimg.com/originals/e7/13/df/e713dfda338e6bd73377e6003bd92fd9.gif" align="center" style="width: 100%" /><picture>
+</div>
